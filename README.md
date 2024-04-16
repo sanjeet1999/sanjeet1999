@@ -1,5 +1,5 @@
 ### Hi there 👋
 # 💫 About Me:
-Hello ! I am software developer.
+Hello ! I am a software developer.
 
 
